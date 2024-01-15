@@ -1,0 +1,1 @@
+const t="https://fraesh.github.io/vps-db/vpsdb.json",s="https://virtualpinballspreadsheet.github.io/vps-db/";s+`lastUpdated.json?ts=${new Date().getTime()}`;const a="VirtualPinballSpreadsheet",e="vps-db",n="img/",o="games/",i="staging";export{a as D,e as a,i as b,n as c,o as d,t as e};
